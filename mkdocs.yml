@@ -1,0 +1,47 @@
+site_name: Informatika EL3 - prezentace a spolupráce
+site_description: Webová učebnice zaměřená na prezentování, prezentační software a kolaborační nástroje.
+site_author: Jaroslav Fait
+
+theme:
+  name: material
+  language: cs
+  palette:
+    - scheme: default
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Přepnout na tmavý režim
+    - scheme: slate
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Přepnout na světlý režim
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Úvod: index.md
+  - Kapitoly:
+      - 1. Prezentace jako sdělení: cs/01-prezentace-jako-sdeleni.md
+      - 2. Publikum, message a příprava: cs/02-publikum-message-a-priprava.md
+      - 3. Vizuální příběh a diagramy: cs/03-vizualni-pribeh-a-diagramy.md
+      - 4. Data, grafy a důkazy: cs/04-data-grafy-a-dukazy.md
+      - 5. Design účinného slidu: cs/05-design-ucinneho-slidu.md
+      - 6. Předvedení a týmový projekt: cs/06-predvedeni-a-tymovy-projekt.md
