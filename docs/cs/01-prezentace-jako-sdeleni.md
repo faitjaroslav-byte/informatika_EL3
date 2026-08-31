@@ -11,24 +11,33 @@ Prezentace není soubor hezky vybarvených slidů. Je to situace, ve které se n
 
 Prezentace nezačaly PowerPointem. Jsou pokračováním dlouhé historie vizuální komunikace: lidé se dlouho učili propojovat obraz, text, data, příběh a mluvený projev tak, aby publikum sdělení nejen slyšelo, ale také vidělo.
 
-```mermaid
-timeline
-    title Starší formy vizuální komunikace
-    15000 př. n. l. : jeskynní malby
-    3000 př. n. l. : egyptské malby
-    500 př. n. l. : veřejné řečnictví
-    950 : vitráže
-    1350 : sloupcové grafy
-```
+### Starší formy vizuální komunikace
 
 ```mermaid
-timeline
-    title Prezentační technika a software
-    1845 : komiksy
-    1945 : zpětný projektor
-    1950 : 35mm diapozitivy
-    1987 : PowerPoint
-    1992 : osobní počítače
+flowchart LR
+    S(( )) --> A["15000 př. n. l.<br>jeskynní malby"] --> B["3000 př. n. l.<br>egyptské malby"]
+    B --> C["500 př. n. l.<br>veřejné řečnictví"] --> D["950<br>vitráže"]
+    D --> E["1350<br>sloupcové grafy"]
+
+    classDef event fill:#f3f4f6,stroke:#6b7280,stroke-width:1.5px,color:#111827,font-size:18px;
+    classDef marker fill:#ffffff,stroke:#374151,stroke-width:3px,color:#374151;
+    class A,B,C,D,E event;
+    class S marker;
+    linkStyle default stroke:#6b7280,stroke-width:2px;
+```
+
+### Prezentační technika a software
+
+```mermaid
+flowchart LR
+    F["1845<br>komiksy"] --> G["1945<br>zpětný projektor"] --> H["1950<br>35mm diapozitivy"]
+    H --> I["1987<br>PowerPoint"] --> J["1992<br>osobní počítače"] --> K(( ))
+
+    classDef event fill:#f3f4f6,stroke:#6b7280,stroke-width:1.5px,color:#111827,font-size:18px;
+    classDef marker fill:#ffffff,stroke:#374151,stroke-width:3px,color:#374151;
+    class F,G,H,I,J event;
+    class K marker;
+    linkStyle default stroke:#6b7280,stroke-width:2px;
 ```
 
 ## Co se naučíš
