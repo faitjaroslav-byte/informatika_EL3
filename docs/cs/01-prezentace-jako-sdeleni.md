@@ -2,18 +2,18 @@
 
 <div class="lesson-meta">
 <strong>Doporučený čas:</strong> 4-6 vyučovacích hodin<br>
-<strong>Výstup kapitoly:</strong> Rozhodneš, zda má být výstup dokument, teleprompter nebo prezentace, a upravíš přeplněný slide tak, aby podporoval mluvené sdělení.
+<strong>Výstup kapitoly:</strong> Rozhodneš, zda má být výstup dokument, poznámky řečníka (teleprompter) nebo prezentace, a upravíš přeplněný slide tak, aby podporoval mluvené sdělení.
 </div>
 
 ## Motivace
 
 Prezentace není soubor hezky vybarvených slidů. Je to situace, ve které se někdo snaží předat myšlenku publiku. Slidy v tom mohou velmi pomoci, ale také mohou všechno pokazit. Když je na slidu příliš mnoho textu, publikum začne číst a přestane poslouchat. Když je slide jen dekorace bez vztahu k tomu, co říkáme, publikum sice něco vidí, ale neví, proč to vidí.
 
-Výběr ze *slide:ology* začíná připomenutím, že lidé komunikovali obrazem dávno před moderním softwarem. Jeskynní malby, nástěnné obrazy, vitráže, grafy, komiksy i projekce jsou různé způsoby, jak propojit obraz, příběh a význam. PowerPoint, Keynote, Google Slides nebo Canva jsou jen současné nástroje této starší dovednosti.
+Výběr ze *slide:ology* začíná časovou osou vizuální komunikace. Ukazuje, že prezentace nezačaly PowerPointem. Už jeskynní malby kolem roku 15000 př. n. l. vyprávěly příběhy obrazem. Egyptské nástěnné malby kolem roku 3000 př. n. l. spojovaly obrazové znaky a sdělení pro velké publikum. Řecké veřejné řečnictví kolem roku 500 př. n. l. připomíná, že prezentace není jen obraz, ale také mluvený projev. Vitráže, rané grafy, komiksy, promítačky a 35mm diapozitivy postupně rozšiřovaly možnosti, jak propojit obraz, text, data a příběh. PowerPoint z roku 1987, rozšíření osobních počítačů v 90. letech i dnešní nástroje jako Keynote, Google Slides nebo Canva jsou tedy jen novější kapitoly mnohem starší dovednosti: vysvětlit myšlenku tak, aby ji publikum vidělo i pochopilo.
 
 ## Co se naučíš
 
-- rozlišit dokument, teleprompter a prezentaci,
+- rozlišit dokument, poznámky řečníka a prezentaci,
 - vysvětlit, proč přeplněný slide nefunguje jako vizuální pomůcka,
 - používat pojem `slidedument`,
 - určit, kdy má publikum číst a kdy poslouchat,
@@ -27,21 +27,21 @@ Moderní prezentační programy svádějí k dojmu, že prezentování začíná
 
 To ale neznamená, že každý obsah má být na slidu. Slide má pomáhat ve chvíli, kdy řečník mluví. Pokud je hlavním cílem předat podrobný text, tabulku, přesné zadání nebo návod, je často lepší vytvořit dokument.
 
-### Dokument, teleprompter, prezentace
+### Dokument, poznámky řečníka, prezentace
 
 Ve výběru ze *slide:ology* je důležité rozlišení tří podob výstupu:
 
 | Typ výstupu | Co dělá publikum | Kdy se hodí |
 | --- | --- | --- |
 | Dokument | čte samostatně | podrobný návod, zápis, zpráva, materiál k pozdějšímu studiu |
-| Teleprompter | čte řečník | poznámky řečníka, scénář, příprava projevu |
+| Poznámky řečníka (teleprompter) | čte řečník | scénář, příprava projevu, opora pro vystoupení |
 | Prezentace | poslouchá řečníka a sleduje vizuální oporu | vysvětlování, obhajoba, přesvědčování, společná diskuse |
 
 Největší problém vzniká, když se tyto typy smíchají. Slide se tváří jako prezentace, ale ve skutečnosti je to dokument promítnutý na zeď. Publikum ho začne číst rychleji, než řečník mluví, a pozornost se rozpadne.
 
 ### `Slidedument`
 
-Nancy Duarte používá pojem `slidedument` pro slide, který je současně slidem i dokumentem. Obsahuje tolik textu, odrážek a detailů, že už neslouží jako vizuální opora. Spíše připomíná stránku dokumentu vmáčknutou do formátu prezentace.
+Pro slide, který je současně slidem i dokumentem, se někdy používá pojem `slidedument`. Obsahuje tolik textu, odrážek a detailů, že už neslouží jako vizuální opora. Spíše připomíná stránku dokumentu vmáčknutou do formátu prezentace.
 
 `Slidedument` bývá lákavý, protože působí bezpečně. Autor má pocit, že na nic nezapomene. Ve skutečnosti ale přenáší zodpovědnost na publikum: "Přečtěte si to sami." Dobrá prezentace funguje opačně. Řečník vybírá, co je podstatné, a slide mu pomáhá tuto volbu ukázat.
 
@@ -51,7 +51,7 @@ Při tvorbě každého slidu si polož jednoduchou otázku:
 
 > Má publikum tento obsah hlavně číst, nebo má poslouchat mě?
 
-Pokud má číst, vytvoř dokument nebo handout. Pokud má poslouchat, slide zjednoduš. Na slidu ponech jen to, co pomáhá porozumět právě vysvětlované myšlence: klíčové slovo, číslo, obrázek, schéma, kontrast nebo otázku.
+Pokud má posluchač slide číst, vytvoř doprovodný dokument nebo handout. Pokud má poslouchat, slide zjednoduš. Na slidu ponech jen to, co pomáhá porozumět právě vysvětlované myšlence: klíčové slovo, číslo, obrázek, schéma, kontrast nebo otázku.
 
 ## Praktický úkol
 
@@ -69,14 +69,14 @@ Vyber si přeplněný slide, například ze starší školní prezentace. Pokud 
 | `message` | hlavní sdělení, které si má publikum odnést |
 | prezentace | mluvené sdělení podpořené obrazem |
 | dokument | text určený k samostatnému čtení |
-| teleprompter | text určený hlavně pro řečníka |
+| poznámky řečníka (teleprompter) | text určený hlavně pro řečníka |
 | `slidedument` | přeplněný slide, který se snaží být dokumentem |
 
 ## Co už umím
 
 <ul class="checklist">
 <li>Vysvětlím, proč prezentace nezačíná výběrem šablony.</li>
-<li>Rozliším dokument, teleprompter a prezentaci.</li>
+<li>Rozliším dokument, poznámky řečníka a prezentaci.</li>
 <li>Poznám `slidedument`.</li>
 <li>Upravím přeplněný slide na stručnou vizuální oporu.</li>
 <li>Rozhodnu, zda má publikum číst, nebo poslouchat.</li>
