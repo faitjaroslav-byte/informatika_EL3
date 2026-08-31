@@ -54,6 +54,37 @@ flowchart LR
 
 Moderní prezentační programy svádějí k dojmu, že prezentování začíná výběrem šablony. Ve skutečnosti začíná sdělením. Člověk chce někomu něco ukázat, vysvětlit, obhájit nebo navrhnout. Obraz je silný právě proto, že dokáže zkrátit cestu k porozumění: publikum často rychleji pochopí vztah, kontrast nebo směr pohybu z obrázku než z dlouhého odstavce.
 
+### Kde se prezentace používají
+
+Prezentace mohou směřovat ven z organizace i dovnitř. V obou případech mají podobné funkce: vysvětlují, přesvědčují, učí, prodávají, informují nebo pomáhají sladit společný postup.
+
+Typičtí příjemci **externích prezentací**:
+
+- zákazníci,
+- média,
+- analytici,
+- veřejná správa,
+- průmysl,
+- komunita.
+
+Typičtí příjemci **interních prezentací**:
+
+- zaměstnanci,
+- partneři,
+- vedení,
+- investoři,
+- dodavatelé.
+
+Společné **funkce prezentací**:
+
+- školení,
+- marketing,
+- události,
+- vztahy s investory,
+- prodej,
+- public relations,
+- výzkum a vývoj.
+
 To ale neznamená, že každý obsah má být na slidu. Slide má pomáhat ve chvíli, kdy řečník mluví. Pokud je hlavním cílem předat podrobný text, tabulku, přesné zadání nebo návod, je často lepší vytvořit dokument.
 
 ### Dokument, poznámky řečníka, prezentace
