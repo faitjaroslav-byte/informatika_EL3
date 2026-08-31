@@ -12,24 +12,23 @@ Prezentace není soubor hezky vybarvených slidů. Je to situace, ve které se n
 Prezentace nezačaly PowerPointem. Jsou pokračováním dlouhé historie vizuální komunikace: lidé se dlouho učili propojovat obraz, text, data, příběh a mluvený projev tak, aby publikum sdělení nejen slyšelo, ale také vidělo.
 
 ```mermaid
-flowchart TB
-    subgraph R1["starší formy vizuální komunikace"]
-        direction LR
-        A["15000 př. n. l.<br>jeskynní malby"] --> B["3000 př. n. l.<br>egyptské malby"]
-        B --> C["500 př. n. l.<br>veřejné řečnictví"]
-        C --> D["950<br>vitráže"]
-        D --> E["1350<br>sloupcové grafy"]
-    end
+timeline
+    title Starší formy vizuální komunikace
+    15000 př. n. l. : jeskynní malby
+    3000 př. n. l. : egyptské malby
+    500 př. n. l. : veřejné řečnictví
+    950 : vitráže
+    1350 : sloupcové grafy
+```
 
-    subgraph R2["prezentační technika a software"]
-        direction LR
-        F["1845<br>komiksy"] --> G["1945<br>zpětný projektor"]
-        G --> H["1950<br>35mm diapozitivy"]
-        H --> I["1987<br>PowerPoint"]
-        I --> J["1992<br>osobní počítače"]
-    end
-
-    E --> F
+```mermaid
+timeline
+    title Prezentační technika a software
+    1845 : komiksy
+    1945 : zpětný projektor
+    1950 : 35mm diapozitivy
+    1987 : PowerPoint
+    1992 : osobní počítače
 ```
 
 ## Co se naučíš
