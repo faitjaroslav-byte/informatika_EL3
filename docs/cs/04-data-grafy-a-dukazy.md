@@ -9,7 +9,7 @@
 
 Data mohou prezentaci dodat sílu. Mohou ukázat změnu, rozdíl, problém nebo důkaz. Zároveň ale patří mezi nejčastější zdroje nepřehledných slidů. Tabulka plná čísel na projekčním plátně publiku obvykle nepomůže. Publikum nemá čas hledat, co je důležité.
 
-Ve *slide:ology* se zdůrazňuje, že datové slidy nejsou hlavně o datech. Jsou o významu dat. Cílem není ukázat všechno, co máme, ale vysvětlit, co z toho plyne.
+Datové slidy nejsou hlavně o datech. Jsou o významu dat. Cílem není ukázat všechno, co máme, ale vysvětlit, co z toho plyne.
 
 ## Co se naučíš
 
@@ -23,7 +23,7 @@ Ve *slide:ology* se zdůrazňuje, že datové slidy nejsou hlavně o datech. Jso
 
 ### Pět pravidel datového slidu
 
-Výběr ze *slide:ology* shrnuje práci s daty do pěti pravidel:
+Práci s daty v prezentaci můžeme shrnout do pěti pravidel:
 
 | Pravidlo | Význam pro školní prezentaci |
 | --- | --- |

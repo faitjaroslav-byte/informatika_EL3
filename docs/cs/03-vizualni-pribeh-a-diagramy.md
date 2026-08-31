@@ -23,7 +23,7 @@ Diagram není ozdoba. Je to způsob přemýšlení. Když kreslíme vztahy mezi 
 
 ### Od nápadu k obrazu
 
-Ve *slide:ology* se práce s vizuálním příběhem opírá o schopnost převádět slova na obrazy. Nejde o kreslířský talent. Jde o rozhodnutí, jaký vztah mezi prvky chceme ukázat.
+Práce s vizuálním příběhem se opírá o schopnost převádět slova na obrazy. Nejde o kreslířský talent. Jde o rozhodnutí, jaký vztah mezi prvky chceme ukázat.
 
 Před tvorbou diagramu si polož otázky:
 
@@ -38,7 +38,7 @@ Teprve potom vybírej tvar.
 
 ### Abstraktní vztahy
 
-Výběr ze *slide:ology* ukazuje několik rodin diagramů. Pro školní práci si je zjednodušíme takto:
+Pro školní práci si základní rodiny diagramů zjednodušíme takto:
 
 | Typ | Kdy se hodí | Příklad |
 | --- | --- | --- |

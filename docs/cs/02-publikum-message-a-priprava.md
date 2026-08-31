@@ -9,7 +9,7 @@
 
 Mnoho prezentací selže ještě před otevřením prezentačního programu. Autor začne tvořit slidy dříve, než ví, co přesně chce říct a komu to říká. Výsledkem bývá sada informací bez jasné pointy.
 
-Ve *slide:ology* se prezentace popisuje jako ekosystém tří částí: `message`, `visual story` a `delivery`. Nestačí mít dobrý obsah. Nestačí mít hezké slidy. Nestačí ani mluvit sebevědomě. Účinná prezentace vzniká tehdy, když tyto tři části drží pohromadě.
+Prezentaci můžeme chápat jako ekosystém tří částí: `message`, `visual story` a `delivery`. Nestačí mít dobrý obsah. Nestačí mít hezké slidy. Nestačí ani mluvit sebevědomě. Účinná prezentace vzniká tehdy, když tyto tři části drží pohromadě.
 
 ## Co se naučíš
 
@@ -50,7 +50,7 @@ Pokud na tyto otázky neumíš odpovědět, ještě není čas kreslit slidy.
 
 ### Příprava mimo prezentační software
 
-Výběr ze *slide:ology* zdůrazňuje, že aplikace jsou kontejnery pro nápady, ne místo, kde nápady vznikají. Když otevřeš prázdnou šablonu, software tě často začne vést k nadpisům a odrážkám. To může být užitečné později, ale na začátku potřebuješ volnost.
+Aplikace jsou kontejnery pro nápady, ne místo, kde nápady nutně vznikají. Když otevřeš prázdnou šablonu, software tě často začne vést k nadpisům a odrážkám. To může být užitečné později, ale na začátku potřebuješ volnost.
 
 Praktický postup:
 

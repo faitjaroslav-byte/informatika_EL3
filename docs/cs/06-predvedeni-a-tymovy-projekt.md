@@ -9,7 +9,7 @@
 
 Prezentace není hotová ve chvíli, kdy je hotový poslední slide. Je hotová až tehdy, když ji někdo srozumitelně předvede publiku. Dobré slidy samy neodprezentují myšlenku. Řečník musí vědět, co říká, proč to říká a jak slidy používá.
 
-Ve *slide:ology* je `delivery` jednou ze tří částí prezentačního ekosystému. Zahrnuje mluvení, tempo, kontakt s publikem, práci s pauzou, pohybem i s technikou. V této kapitole spojíme předvedení s týmovou prací a závěrečným projektem.
+`Delivery` je jednou ze tří částí prezentačního ekosystému. Zahrnuje mluvení, tempo, kontakt s publikem, práci s pauzou, pohybem i s technikou. V této kapitole spojíme předvedení s týmovou prací a závěrečným projektem.
 
 ## Co se naučíš
 
@@ -37,7 +37,7 @@ Základní pravidla:
 
 ### Pohyb a animace
 
-Animace mohou pomoci, když řídí pozornost nebo ukazují změnu. Mohou ale také rušit. Ve *slide:ology* se objevuje důležité upozornění: samotná existence animační funkce neznamená, že ji máme použít.
+Animace mohou pomoci, když řídí pozornost nebo ukazují změnu. Mohou ale také rušit. Důležité pravidlo zní: samotná existence animační funkce neznamená, že ji máme použít.
 
 Pohyb použij, když:
 
@@ -68,7 +68,7 @@ Pokud efekt nepřidává význam, odstraň ho.
 
 Omezení nejsou trest. Pomáhají autorovi rozhodovat. Když máš neomezený počet slidů, slov a minut, snadno začneš přidávat další a další obsah. Když máš jasný limit, musíš vybírat.
 
-Výběr ze *slide:ology* pracuje i s pravidlem 10/20/30 Guye Kawasakiho: 10 slidů, 20 minut, písmo alespoň 30 bodů. Pro školní prezentaci ho nemusíme brát doslova, ale princip je užitečný: méně slidů, jasnější pointa, větší písmo.
+Někdy se používá pravidlo 10/20/30 Guye Kawasakiho: 10 slidů, 20 minut, písmo alespoň 30 bodů. Pro školní prezentaci ho nemusíme brát doslova, ale princip je užitečný: méně slidů, jasnější pointa, větší písmo.
 
 Možná školní omezení:
 

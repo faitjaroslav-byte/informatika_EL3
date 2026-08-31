@@ -7,7 +7,7 @@
 
 Tato učebnice vede žáka od pochopení sdělení přes návrh vizuálního příběhu až k vytvoření, odladění a předvedení vlastní prezentace. Prezentační software zde není cílem sám o sobě. Je to nástroj, který má pomoci publiku porozumět myšlence.
 
-Výklad vychází především z výběru knihy *slide:ology* od Nancy Duarte. Anglické pojmy, které jsou pro práci s prezentací užitečné, ponecháváme v angličtině: například `message`, `visual story`, `delivery` nebo `slidedument`.
+Anglické pojmy, které jsou pro práci s prezentací užitečné, ponecháváme v angličtině: například `message`, `visual story`, `delivery` nebo `slidedument`.
 
 <div class="source-note">
 <strong>Označení doplněného obsahu:</strong> Části označené jako "Doplněno pro tuto učebnici" rozšiřují podklady o práci s kolaboračním softwarem, školní kontext a praktické workflow žáků.

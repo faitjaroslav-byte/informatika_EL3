@@ -9,7 +9,20 @@
 
 Prezentace není soubor hezky vybarvených slidů. Je to situace, ve které se někdo snaží předat myšlenku publiku. Slidy v tom mohou velmi pomoci, ale také mohou všechno pokazit. Když je na slidu příliš mnoho textu, publikum začne číst a přestane poslouchat. Když je slide jen dekorace bez vztahu k tomu, co říkáme, publikum sice něco vidí, ale neví, proč to vidí.
 
-Výběr ze *slide:ology* začíná časovou osou vizuální komunikace. Ukazuje, že prezentace nezačaly PowerPointem. Už jeskynní malby kolem roku 15000 př. n. l. vyprávěly příběhy obrazem. Egyptské nástěnné malby kolem roku 3000 př. n. l. spojovaly obrazové znaky a sdělení pro velké publikum. Řecké veřejné řečnictví kolem roku 500 př. n. l. připomíná, že prezentace není jen obraz, ale také mluvený projev. Vitráže, rané grafy, komiksy, promítačky a 35mm diapozitivy postupně rozšiřovaly možnosti, jak propojit obraz, text, data a příběh. PowerPoint z roku 1987, rozšíření osobních počítačů v 90. letech i dnešní nástroje jako Keynote, Google Slides nebo Canva jsou tedy jen novější kapitoly mnohem starší dovednosti: vysvětlit myšlenku tak, aby ji publikum vidělo i pochopilo.
+Prezentace nezačaly PowerPointem. Jsou pokračováním dlouhé historie vizuální komunikace: lidé se dlouho učili propojovat obraz, text, data, příběh a mluvený projev tak, aby publikum sdělení nejen slyšelo, ale také vidělo.
+
+```mermaid
+flowchart LR
+    A["15000 př. n. l.<br>jeskynní malby"] --> B["3000 př. n. l.<br>egyptské malby"]
+    B --> C["500 př. n. l.<br>veřejné řečnictví"]
+    C --> D["950<br>vitráže"]
+    D --> E["1350<br>sloupcové grafy"]
+    E --> F["1845<br>komiksy"]
+    F --> G["1945<br>zpětný projektor"]
+    G --> H["1950<br>35mm diapozitivy"]
+    H --> I["1987<br>PowerPoint"]
+    I --> J["1992<br>osobní počítače"]
+```
 
 ## Co se naučíš
 
@@ -29,7 +42,7 @@ To ale neznamená, že každý obsah má být na slidu. Slide má pomáhat ve ch
 
 ### Dokument, poznámky řečníka, prezentace
 
-Ve výběru ze *slide:ology* je důležité rozlišení tří podob výstupu:
+Pro tvorbu prezentací je důležité rozlišit tři podobné, ale odlišné výstupy:
 
 | Typ výstupu | Co dělá publikum | Kdy se hodí |
 | --- | --- | --- |

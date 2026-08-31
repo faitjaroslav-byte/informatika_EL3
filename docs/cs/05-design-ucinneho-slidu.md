@@ -9,7 +9,7 @@
 
 Design slidu není jen otázka vkusu. Dobrý design říká publiku, co je důležité, co spolu souvisí a v jakém pořadí má informace číst. Špatný design naopak přidává šum. Publikum musí hádat, kam se dívat, a část energie spotřebuje na orientaci místo na porozumění.
 
-Ve *slide:ology* je design účinného slidu rozdělen do tří oblastí: `arrangement`, `visual elements` a `movement`. V této kapitole se zaměříme hlavně na první dvě oblasti.
+Design účinného slidu můžeme rozdělit do tří oblastí: `arrangement`, `visual elements` a `movement`. V této kapitole se zaměříme hlavně na první dvě oblasti.
 
 ## Co se naučíš
 
@@ -61,7 +61,7 @@ Hierarchii vytváříme například:
 
 ### `Visual elements`
 
-Výběr ze *slide:ology* pracuje se čtyřmi základními složkami slidu:
+Budeme pracovat se čtyřmi základními složkami slidu:
 
 | Složka | Role |
 | --- | --- |
