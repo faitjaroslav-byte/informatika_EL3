@@ -13,36 +13,36 @@ Prezentaci můžeme chápat jako ekosystém tří částí: `message` (co chci p
 
 ## Co se naučíš
 
-- popsat publikum pomocí konkrétních otázek,
+- zjistit pomocí vhodných otázek o cílové skupině, které je prezentace určena
 - formulovat hlavní `message`,
-- generovat a třídit nápady mimo prezentační software,
-- použít zpětnou vazbu spolužáků k vyjasnění obsahu,
+- připravit se na prezentaci bez použití prezentačního software, generovat nápady a roztřídit je
+- použít zpětnou vazbu spolužáků k přizpůsobení obsahu 
 - připravit podklady pro týmovou prezentaci.
 
 ## Výklad
 
 ### Nejdřív publikum
 
-Prezentace není o tom, co všechno ví autor. Je o tom, co potřebuje pochopit publikum. Proto začínej otázkami:
+Prezentace nemá ukázat všechno, co autor ví. Má pomoct posluchačům pochopit to, co je pro ně důležité. Proto začínej otázkami:
 
 | Otázka | K čemu slouží |
 | --- | --- |
-| Kdo jsou? | Pomůže určit úroveň detailu a jazyk. |
+| Kdo posluchači jsou? | Pomůže určit úroveň detailu a jazyk. |
 | Proč jsou tady? | Ukáže, zda přišli dobrovolně, z povinnosti, nebo kvůli problému. |
-| Co už vědí? | Zabrání zbytečnému vysvětlování samozřejmostí. |
-| Co jim brání změnit názor nebo jednat? | Pomůže odhalit obavy, námitky a nejasnosti. |
+| Co už všechno vědí? | Zabrání zbytečnému vysvětlování samozřejmostí. |
+| Co jim může bránit v tom, aby změnili názor nebo začali jednat? | Pomůže odhalit obavy, námitky a nejasnosti. |
 | Co mají po prezentaci udělat? | Vede k jasné výzvě, závěru nebo rozhodnutí. |
 | Jak je nejlépe oslovit? | Pomůže zvolit příklady, tón, délku a médium. |
 
-Dobrá prezentace publiku ukazuje, že řečník rozumí jeho situaci. Nezačíná větou "Dnes vám řeknu všechno, co jsem zjistil", ale spíš otázkou "Co z toho je pro vás důležité?"
+Dobrá prezentace není monolog o tom, co autor ví. Je to promyšlený výběr toho, co má posluchačům pomoct pochopit, rozhodnout se nebo jednat.
 
 ### `Message`
 
-`Message` je hlavní sdělení prezentace. Není to téma. Téma může být "kyberbezpečnost", ale `message` může znít: "Silné heslo nestačí, pokud stejné heslo používáme všude." Téma pojmenovává oblast. `Message` říká pointu.
+`Message` je hlavní sdělení prezentace. Není to téma. Téma může být "kyberbezpečnost", ale `message` může znít: "Silné heslo nestačí, pokud ho používáme všude." Téma pojmenovává oblast. `Message` vyjadřuje pointu.
 
 Pomáhá jednoduchý test:
 
-1. Co si má publikum zapamatovat za jeden den?
+1. Co si má publikum zapamatovat ?
 2. Co má po prezentaci udělat nebo změnit?
 3. Proč na tom záleží právě tomuto publiku?
 
@@ -50,7 +50,7 @@ Pokud na tyto otázky neumíš odpovědět, ještě není čas kreslit slidy.
 
 ### Příprava mimo prezentační software
 
-Aplikace jsou kontejnery pro nápady, ne místo, kde nápady nutně vznikají. Když otevřeš prázdnou šablonu, software tě často začne vést k nadpisům a odrážkám. To může být užitečné později, ale na začátku potřebuješ volnost.
+Nápad nevzniká tím, že otevřeš PowerPoint nebo Canvu. Aplikace ti ho jen pomůže zpracovat. Když otevřeš prázdnou šablonu, software tě často začne vést k nadpisům a odrážkám. To může být užitečné později, ale na začátku potřebuješ volnost.
 
 Praktický postup:
 
@@ -59,9 +59,9 @@ Praktický postup:
 3. Nápady zatím nehodnoť.
 4. Seřaď je do skupin.
 5. Odstraň duplicity a slabé body.
-6. Zkus z nich složit příběh: odkud publikum vychází, co pochopí, kam dojde.
+6. Zkus z nich složit příběh: odkud publikum vychází, co má pochopit, kam dojde.
 
-### Spolupráce pro jasnost
+### Spolupráce při přípravě prezentace 
 
 Nápad, který vypadá jasně v hlavě autora, může být pro ostatní nečitelný. Proto je užitečné vysvětlit koncept někomu dalšímu ještě před tvorbou finálních slidů. Spolužák nemusí navrhnout lepší grafiku. Stačí, když řekne, co pochopil, kde se ztratil a která část ho zaujala.
 
@@ -103,7 +103,7 @@ Ve dvojici si zvolte téma, které lze představit za tři minuty. Například �
 ## Co už umím
 
 <ul class="checklist">
-<li>Popíšu publikum konkrétněji než jen "spolužáci".</li>
+<li>Popíšu, co o posluchačích vím a co potřebují pochopit.</li>
 <li>Rozliším téma a `message`.</li>
 <li>Vytvořím nápady mimo prezentační šablonu.</li>
 <li>Použiju komentáře ke zlepšení obsahu.</li>
