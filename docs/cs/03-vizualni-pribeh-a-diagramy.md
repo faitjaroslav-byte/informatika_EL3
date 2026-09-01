@@ -95,7 +95,7 @@ Vyber si jeden školní nebo digitální proces. Může to být například odev
 
 1. Napiš jednou větou, co má publikum pochopit.
 2. Rozhodni, zda je hlavní vztah `flow`, `structure`, `cluster` nebo `radiate`.
-3. Nakresli první návrh na papír.
+3. Nakresli základní náčrt na papír.
 4. Vytvoř digitální verzi.
 5. Ukaž ji spolužákovi bez vysvětlování a zeptej se, co z ní pochopil.
 6. Uprav diagram podle zpětné vazby.

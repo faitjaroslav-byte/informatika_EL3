@@ -1,17 +1,12 @@
 # Prezentace a spolupráce
 
 <div class="lesson-meta">
-<strong>Pracovní verze:</strong> první návrh učebnice<br>
 <strong>Zaměření:</strong> dobré prezentování, prezentační software a kolaborační nástroje.
 </div>
 
 Tato učebnice vede žáka od pochopení sdělení přes návrh vizuálního příběhu až k vytvoření, odladění a předvedení vlastní prezentace. Prezentační software zde není cílem sám o sobě. Je to nástroj, který má pomoci publiku porozumět myšlence.
 
 Anglické pojmy, které jsou pro práci s prezentací užitečné, ponecháváme v angličtině: například `message`, `visual story`, `delivery` nebo `slidedument`.
-
-<div class="source-note">
-<strong>Označení doplněného obsahu:</strong> Části označené jako "Doplněno pro tuto učebnici" rozšiřují podklady o práci s kolaboračním softwarem, školní kontext a praktické workflow žáků.
-</div>
 
 ## Kapitoly
 
