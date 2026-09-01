@@ -103,7 +103,7 @@ Největší problém vzniká, když se tyto typy smíchají. Slide se tváří j
 
 Pro slide, který je současně slidem i dokumentem, se někdy používá pojem `slidedument`. Obsahuje tolik textu, odrážek a detailů, že už neslouží jako vizuální opora. Spíše připomíná stránku dokumentu vmáčknutou do formátu prezentace.
 
-`Slidedument` bývá lákavý, protože působí bezpečně. Autor má pocit, že na nic nezapomene. Ve skutečnosti ale přenáší zodpovědnost na publikum: "Přečtěte si to sami." Dobrá prezentace funguje opačně. Řečník vybírá, co je podstatné, a slide mu pomáhá tuto volbu ukázat.
+Autor ke `slidedumentu` často sklouzne, protože má pocit, že tak na nic nezapomene a bude mít všechno pod kontrolou. Ve skutečnosti ale přenáší část práce na publikum: "Přečtěte si to sami." Dobrá prezentace funguje opačně. Řečník vybírá, co je podstatné, a slide mu pomáhá tuto volbu ukázat.
 
 ### Číst, nebo poslouchat?
 

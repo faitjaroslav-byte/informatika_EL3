@@ -9,7 +9,7 @@
 
 Mnoho prezentací selže ještě před otevřením prezentačního programu. Autor začne tvořit slidy dříve, než ví, co přesně chce říct a komu to říká. Výsledkem bývá sada informací bez jasné pointy.
 
-Prezentaci můžeme chápat jako ekosystém tří částí: `message`, `visual story` a `delivery`. Nestačí mít dobrý obsah. Nestačí mít hezké slidy. Nestačí ani mluvit sebevědomě. Účinná prezentace vzniká tehdy, když tyto tři části drží pohromadě.
+Prezentaci můžeme chápat jako ekosystém tří částí: `message` (co chci publiku sdělit), `visual story` (vizuální opora) a `delivery` (provedení prezentace). Nestačí mít dobrý obsah. Nestačí mít hezké slidy. Nestačí ani mluvit sebevědomě. Účinná prezentace vzniká tehdy, když tyto tři části drží pohromadě.
 
 ## Co se naučíš
 
