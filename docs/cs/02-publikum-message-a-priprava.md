@@ -13,7 +13,7 @@ Prezentaci můžeme chápat jako ekosystém tří částí: `message` (co chci p
 
 ## Co se naučíš
 
-- zjistit pomocí vhodných otázek o cílové skupině, které je prezentace určena
+- zjistit pomocí vhodných otázek co nejvíc o cílové skupině, které je prezentace určena
 - formulovat hlavní `message`,
 - připravit se na prezentaci bez použití prezentačního software, generovat nápady a roztřídit je
 - použít zpětnou vazbu spolužáků k přizpůsobení obsahu 
@@ -92,13 +92,13 @@ Ve dvojici si zvolte téma, které lze představit za tři minuty. Například �
 
 ## Tahák
 
-| Krok | Kontrolní otázka |
+| Oblast | Kontrolní otázka |
 | --- | --- |
-| publikum | Komu přesně mluvím? |
-| potřeba | Co potřebují pochopit nebo rozhodnout? |
-| `message` | Jaká je jedna hlavní pointa? |
-| nápady | Mám dost materiálu, ze kterého mohu vybírat? |
-| spolupráce | Ověřil někdo, že je sdělení srozumitelné? |
+| Cílová skupina | Vím přesně, ke komu mluvím? |
+| Potřeba posluchačů | Co mají pochopit, rozhodnout nebo udělat? |
+| Hlavní sdělení (`message`) | Dokážu říct hlavní myšlenku jednou větou? |
+| Výběr obsahu | Mám z čeho vybírat, nebo jen skládám první nápady za sebou? |
+| Zpětná vazba | Ověřil někdo, že je sdělení srozumitelné? |
 
 ## Co už umím
 
