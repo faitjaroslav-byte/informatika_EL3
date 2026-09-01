@@ -1,4 +1,4 @@
-# Prezentace a spolupráce
+# Prezentace: zásady, software a spolupráce
 
 <div class="lesson-meta">
 <strong>Zaměření:</strong> dobré prezentování, prezentační software a kolaborační nástroje.
