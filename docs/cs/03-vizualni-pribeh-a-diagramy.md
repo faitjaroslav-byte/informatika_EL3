@@ -38,16 +38,16 @@ Teprve potom vybírej tvar.
 
 ### Abstraktní vztahy
 
-Pro školní práci si základní rodiny diagramů zjednodušíme takto:
+Pro školní práci si základní rodiny diagramů zjednodušíme takto. Anglické názvy se v některých nástrojích a návodech objevují, ale v učebnici budeme používat hlavně české pojmy.
 
-| Typ | Kdy se hodí | Příklad |
-| --- | --- | --- |
-| `flow` | když ukazuješ pořadí nebo proces | postup registrace, cesta dat, plán projektu |
-| `structure` | když ukazuješ uspořádání částí | organizační schéma, vrstvy systému, strom témat |
-| `cluster` | když ukazuješ skupiny nebo překryvy | témata brainstormingu, podobnosti a rozdíly |
-| `radiate` | když něco vychází z jednoho středu | hlavní téma a jeho důsledky, nápady kolem problému |
+| Český pojem | Anglicky | Kdy se hodí | Příklad |
+| --- | --- | --- | --- |
+| struktura | `structure` | když ukazuješ uspořádání částí | organizační schéma, vrstvy systému, strom témat |
+| průběh / rozhodovací diagram | `flow` | když ukazuješ pořadí kroků, proces nebo rozhodnutí | postup registrace, cesta dat, schválení nabídky, test ano/ne |
+| skupiny a překryvy | `cluster` | když ukazuješ, co patří k sobě a kde se oblasti potkávají | témata brainstormingu, podobnosti a rozdíly |
+| paprskový diagram | `radiate` | když něco vychází z jednoho středu | hlavní téma a jeho důsledky, nápady kolem problému |
 
-Každý typ vede publikum jiným způsobem. `Flow` říká "jdi tímto směrem". `Structure` říká "takhle to drží pohromadě". `Cluster` říká "tyto věci patří k sobě". `Radiate` říká "toto je střed a kolem něj jsou souvislosti".
+Každý typ vede publikum jiným způsobem. Struktura říká "takhle to drží pohromadě". Průběh nebo rozhodovací diagram říká "jdi tímto směrem" a ukazuje, co se stane při různých rozhodnutích. Skupiny a překryvy říkají "tyto věci patří k sobě a někde se potkávají". Paprskový diagram říká "toto je střed a kolem něj jsou souvislosti".
 
 ### Realističtější vztahy
 
@@ -94,7 +94,7 @@ Nejdřív řeš vztahy, potom vzhled. Hezký diagram, který neodpovídá sděle
 Vyber si jeden školní nebo digitální proces. Může to být například odevzdání úkolu, tvorba skupinové prezentace, cesta e-mailu, plánování školní akce nebo práce s online formulářem.
 
 1. Napiš jednou větou, co má publikum pochopit.
-2. Rozhodni, zda je hlavní vztah `flow`, `structure`, `cluster` nebo `radiate`.
+2. Rozhodni, zda je hlavní vztah struktura, průběh nebo rozhodnutí, skupiny a překryvy nebo paprskový diagram.
 3. Nakresli základní náčrt na papír.
 4. Vytvoř digitální verzi.
 5. Ukaž ji spolužákovi bez vysvětlování a zeptej se, co z ní pochopil.
@@ -104,10 +104,10 @@ Vyber si jeden školní nebo digitální proces. Může to být například odev
 
 | Když chci ukázat... | Použiju spíše... |
 | --- | --- |
-| pořadí kroků | `flow` |
-| části celku | `structure` |
-| skupiny | `cluster` |
-| vazby kolem středu | `radiate` |
+| části celku | strukturu |
+| pořadí kroků nebo rozhodnutí | průběh / rozhodovací diagram |
+| skupiny nebo průniky | skupiny a překryvy |
+| vazby kolem středu | paprskový diagram |
 | změnu v čase | proces nebo časovou osu |
 | skrytou příčinu | odhalení nebo vrstvy |
 
@@ -115,7 +115,7 @@ Vyber si jeden školní nebo digitální proces. Může to být například odev
 
 <ul class="checklist">
 <li>Vyberu diagram podle vztahu, ne podle toho, který tvar vypadá zajímavě.</li>
-<li>Rozliším `flow`, `structure`, `cluster` a `radiate`.</li>
+<li>Rozliším strukturu, průběh nebo rozhodovací diagram, skupiny a překryvy a paprskový diagram.</li>
 <li>Převedu abstraktní myšlenku do jednoduchého schématu.</li>
 <li>Vím, kdy je vhodné diagram odhalovat postupně.</li>
 <li>Ověřím srozumitelnost diagramu na spolužákovi.</li>

@@ -45,3 +45,13 @@ nav:
       - 4. Data, grafy a důkazy: cs/04-data-grafy-a-dukazy.md
       - 5. Design účinného slidu: cs/05-design-ucinneho-slidu.md
       - 6. Předvedení a týmový projekt: cs/06-predvedeni-a-tymovy-projekt.md
+  - Úkoly:
+      - 1. Prezentace pozpátku: ukoly/ukol-1-prezentace-pozpatku.md
+      - 2. Diagramy a struktury:
+          - 00. TechFlow: ukoly/ukol-2-diagramy/00-techflow.md
+          - 01. FreshBox: ukoly/ukol-2-diagramy/01-freshbox.md
+          - 02. RepairHub: ukoly/ukol-2-diagramy/02-repairhub.md
+          - 03. EventLab: ukoly/ukol-2-diagramy/03-eventlab.md
+          - 04. EcoWear: ukoly/ukol-2-diagramy/04-ecowear.md
+          - 05. MediPoint: ukoly/ukol-2-diagramy/05-medipoint.md
+          - 06. GameNest: ukoly/ukol-2-diagramy/06-gamenest.md
