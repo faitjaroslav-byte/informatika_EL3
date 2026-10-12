@@ -1,5 +1,5 @@
-site_name: "Informatika EL3 - Prezentace: zásady, software a spolupráce"
-site_description: Webová učebnice zaměřená na prezentování, prezentační software a kolaborační nástroje.
+site_name: "Informatika EL3"
+site_description: Webová učebnice informatiky pro EL3 zaměřená na prezentace, kancelářský software, algoritmizaci a multimediální dokumenty.
 site_author: Jaroslav Fait
 
 theme:
@@ -45,6 +45,9 @@ nav:
       - 4. Data, grafy a důkazy: cs/04-data-grafy-a-dukazy.md
       - 5. Design účinného slidu: cs/05-design-ucinneho-slidu.md
       - 6. Předvedení a týmový projekt: cs/06-predvedeni-a-tymovy-projekt.md
+      - 7. Algoritmy, postupy a rozhodování: cs/07-algoritmy-postupy-a-rozhodovani.md
+      - 8. Multimediální dokumenty a publikování: cs/08-multimedialni-dokumenty-a-publikovani.md
+      - 9. Propojování kancelářských aplikací: cs/09-propojovani-kancelarskych-aplikaci.md
   - Úkoly:
       - 1. Prezentace pozpátku: ukoly/ukol-1-prezentace-pozpatku.md
       - 2. Diagramy a struktury:

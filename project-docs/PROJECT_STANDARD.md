@@ -259,6 +259,8 @@ Repo konvence:
 | `functions/_middleware.js` | Cloudflare Pages middleware pro Basic Auth ochranu publikovaného webu |
 | `project-docs/` | interní projektová a autorská dokumentace |
 | `resources/` | zdrojové podklady |
+| `presentations/` | osnovy, zdroje a finální učitelské prezentace podle `STANDARD_PREZENTACI.md` |
+| `quiz-generator/` | budoucí verzované banky otázek a nástroj pro testy; tajné konfigurace zůstávají pouze lokálně |
 
 Publikace na Cloudflare Pages:
 
@@ -294,6 +296,8 @@ Při práci na této učebnici platí:
 - nevkládat do publikované části interní autorské poznámky,
 - nerozšiřovat osnovu bez důvodu,
 - při větší změně osnovy nejdříve navrhnout úpravu v chatu.
+- před tvorbou nebo úpravou učitelské prezentace přečíst `project-docs/STANDARD_PREZENTACI.md`,
+- před tvorbou banky otázek, testu nebo Google Formuláře přečíst `project-docs/STANDARD_BANKY_OTAZEK_A_TESTU.md`.
 
 | Důležitá zkušenost | U učebnic je konzistence důležitější než kreativní vylepšování každé kapitoly jiným stylem. |
 | --- | --- |
