@@ -1,3 +1,6 @@
 .venv/
 site/
 .DS_Store
+.codex-build/
+.codex-finalizer/
+.chart-data-*/

@@ -42,7 +42,7 @@ Práci s daty v prezentaci můžeme shrnout do pěti pravidel:
 3. Jaký typ zobrazení tuto myšlenku ukáže nejrychleji?
 4. Co mohu odstranit, aby pointa nezanikla?
 
-Příklad: Pokud je hlavní zpráva "většina třídy používá jednu aplikaci", možná není potřeba složitý graf. Stačí velké číslo s krátkým vysvětlením. Pokud je hlavní zpráva "zájem postupně klesá", bude vhodnější čárový graf.
+Příklad: Pokud je hlavní zpráva "většina třídy používá jednu aplikaci", možná není potřeba složitý graf. Stačí velké číslo s krátkým vysvětlením. Pokud je hlavní zpráva "zájem postupně klesá", bude vhodnější spojnicový graf.
 
 ### Volba grafu
 
@@ -50,7 +50,7 @@ Příklad: Pokud je hlavní zpráva "většina třídy používá jednu aplikaci
 | --- | --- |
 | jedno silné číslo | samotné číslo, případně s krátkým popisem |
 | porovnání kategorií | sloupcový graf |
-| změnu v čase | čárový graf |
+| změnu v čase | spojnicový graf |
 | části jednoho celku | koláčový graf, jen u malého počtu částí |
 | přesné hodnoty pro pozdější čtení | tabulka v dokumentu nebo handoutu |
 
@@ -62,11 +62,11 @@ Datový slide můžeš chápat jako tři vrstvy:
 
 | Vrstva | Úloha |
 | --- | --- |
-| background | osy, měřítko, legenda, kontext |
+| pozadí | osy, měřítko, legenda, kontext |
 | data | samotné hodnoty nebo křivky |
-| emphasis | zvýraznění toho, co je nejdůležitější |
+| zvýraznění | to, co je nejdůležitější |
 
-Background má být klidný. Data mají být čitelná. Emphasis má vést oko k závěru. Když je všechno výrazné, není výrazné nic.
+Pozadí má být klidné. Data mají být čitelná. Zvýraznění má vést oko k závěru. Když je všechno výrazné, není výrazné nic.
 
 ### Pravdivost a čitelnost
 

@@ -1,0 +1,7 @@
+Projekt,Zákazník,Počet linek,Plánované předání,Skutečné předání,Zpoždění ve dnech,Test napoprvé,Úplnost dat
+Orion,Orion Manufacturing,5,2026-04-15,2026-04-15,0,ano,98 %
+NovaSteel,NovaSteel,3,2026-04-30,2026-05-03,3,ne,94 %
+DeltaFood,DeltaFood,2,2026-05-10,2026-05-09,-1,ano,99 %
+KovoPlus,KovoPlus,4,2026-05-20,2026-05-27,7,ne,91 %
+AlfaPlast,AlfaPlast,3,2026-06-05,2026-06-05,0,ano,97 %
+PrintWorks,PrintWorks,2,2026-06-18,2026-06-20,2,ano,95 %
